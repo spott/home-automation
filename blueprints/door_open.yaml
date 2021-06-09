@@ -12,7 +12,7 @@
 
 blueprint:
   name: Notification to Close a Window 
-  description: Notification to close windows if it is cold outside
+  description: Notification to close doors
   domain: automation
   input: 
     contact_sensor: 
